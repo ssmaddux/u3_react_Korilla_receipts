@@ -1,3 +1,5 @@
+### SEIR 123
+
 # Korilla React Receipts
 
 Korilla is a Korean barbecue taco truck that makes thousands of hungry customers
@@ -44,7 +46,7 @@ const receipts = [
   },
   {
     id: 2,
-    person: 'Will',
+    person: 'Tiffany',
     order: {
       main: 'Rice Bowl',
       protein: 'Ginger Chicken',
@@ -58,7 +60,7 @@ const receipts = [
   },
   {
     id: 3,
-    person: 'Jesse',
+    person: 'Brittany',
     order: {
       main: 'Salad Bowl',
       protein: 'Organic Tofu',
@@ -69,6 +71,20 @@ const receipts = [
       cost: 20,
     },
     paid: false,
+  },
+  {
+    id: 4,
+    person: 'Tylus',
+    order: {
+      main: 'Burrito Bowl',
+      protein: 'Carnitas',
+      rice: 'yellow rice',
+      sauce: "Jalapeno Honey",
+      toppings: ['Grilled Corn', 'Pico De Gallo', 'Guacamole'],
+      drink: 'Pineapple Jarritos',
+      cost: 23,
+    },
+    paid: true,
   },
 ];
 ```

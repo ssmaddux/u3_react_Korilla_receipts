@@ -17,6 +17,7 @@ Build a prototype of this short order receipts tracker.
 
 1. Fork and clone this repository.
 1. Create a new React App
+1. Add Commit and Push
 1. Fulfill the listed requirements.
 
 ## Requirements

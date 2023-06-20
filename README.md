@@ -104,9 +104,7 @@ Make a Receipt component that renders the following data from the first receipt:
 **Optional:** render the toppings
 
 Add the next two receipts to state and make two more `Receipt` components so
-that you get a view like this. Some css has been implemented already for you,
-take a look at class names in the various css files.
-
+that you get a view like this.  In your App.css file delete the pre-made React styles and begin designing your own
 ![korilla receipts rendered Mark](https://i.imgur.com/27V4KW8.png)
 
 ## Part 2: Conditionally render the receipts

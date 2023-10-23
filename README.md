@@ -61,7 +61,7 @@ const receipts = [
   },
   {
     id: 3,
-    person: 'Hayk',
+    person: 'Tom',
     order: {
       main: 'Salad Bowl',
       protein: 'Organic Tofu',

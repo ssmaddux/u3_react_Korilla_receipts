@@ -1,0 +1,15 @@
+.foodInfo {
+  display: flex; /* Change flexbox to flex */
+  justify-content: center;
+  
+  align-items: center;
+  flex-direction: column;
+  border: solid black; /* The default flex-direction is row, so you can omit this line */
+}
+
+#one {
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
